@@ -1,0 +1,5 @@
+{
+  "requests": 100,
+  "failures": 2,
+  "target": 0.99
+}
